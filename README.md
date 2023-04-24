@@ -19,3 +19,8 @@ To use the code in this repository, you'll need to have PySpark and Jupyter Note
 
 To run the code in this repository, you'll need to open the Jupyter Notebook files in a Jupyter Notebook server. You can start a local Jupyter Notebook server by running the following command in your terminal:
 
+Then, navigate to the location of the Jupyter Notebook files in your file system and open them in your browser. You should be able to run the code cells in the notebook and see the results.
+
+## Contributing
+
+If you have suggestions for improving this repository, please open an issue or a pull request. I'm always happy to receive feedback and contributions!
